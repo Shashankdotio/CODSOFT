@@ -25,19 +25,18 @@ Welcome to my repository! Here, you will find a collection of projects that I ha
 
 **Description:** In the Credit Card Fraud Detection project, I developed a machine learning model to identify fraudulent credit card transactions. The project addresses class imbalance, preprocesses data, and uses logistic regression for classification.
 
-## Additional Information
-
-### Knowledge Acquired
+---
+## Knowledge Acquired
 Through these projects, I have gained proficiency in:
 - Data preprocessing and cleaning
 - Exploratory data analysis (EDA)
 - Building and evaluating machine learning models
 - Addressing challenges like class imbalance and model performance optimization
 
-### Connect with Me
+## Connect with Me
 Explore the repository, provide feedback, or reach out for discussions on data science, internship experiences, or related topics. Let's learn and grow together!
 
-### Contact
+## Contact
 Feel free to reach out to me via:
 - Email: shashankvsdb@gmail.com
 - LinkedIn:  [shashankkamble97](https://www.linkedin.com/in/shashankkamble97)
