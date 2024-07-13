@@ -21,10 +21,6 @@ Welcome to my repository! Here, you will find a collection of projects that I ha
 
 **Description:** This project focuses on predicting sales for a business. It includes data preprocessing, exploratory data analysis, and the development of a predictive model to forecast future sales.
 
-### 5. Credit Card Fraud Detection
-
-**Description:** In the Credit Card Fraud Detection project, I developed a machine learning model to identify fraudulent credit card transactions. The project addresses class imbalance, preprocesses data, and uses logistic regression for classification.
-
 ---
 ## Knowledge Acquired
 Through these projects, I have gained proficiency in:
